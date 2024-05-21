@@ -1,16 +1,17 @@
 ### Hi there 👋
+I am Khant Htoo Naing, currently studying in Thailand. I am passionate about Machine Learning, Deep Learning, and AI which I do with Python. I love learning Maths although I am not an expert in Maths. 
+<br><br>
 
-<!--
-**Hokfu/Hokfu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am familiar with Python and Javascript programming languages.
+<br><br>
+I am novice on web development with React and Sveltekit frameworks.
+<br><br>
 
-Here are some ideas to get you started:
+#### More About Me
+- 🔭 I’m currently working on machine learning and AI. 
+- 🌱 I’m currently learning MLOps and Julia. 
+- 📫 How to reach me: Reach me out on Twitter [Turtle](https://x.com/KhantHtooNaing2)
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I love Maths 🧑‍🎓, listening to Chinese 🇨🇳 music, watching Chinese 🇨🇳 drama and playing Dota 2 🎮.
+- ⭐ Portfolio Website : [Hokfu](https://hokfu.github.io/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
