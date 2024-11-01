@@ -9,8 +9,8 @@ I am Khant Htoo Naing, currently studying in Thailand. You can call me Turtle �
 
 
 #### More About Me
-- 🔭 I’m currently working on machine learning and AI. 
-- 🌱 I’m currently learning MLOps and agentic AI.
+- 🔭 I’m currently working on agentic AI. 
+- 🌱 I’m capable to do machine learning, MLOps and generative AI.
 - 📫 How to reach me: Reach me out on [Twitter](https://x.com/KhantHtooNaing2) or [LinkedIn](https://www.linkedin.com/in/khant-htoo-naing-31799a234/)
 - 😄 Pronouns: He/Him
 - ⭐ Portfolio Website : [Hokfu](https://hokfu.github.io/)
